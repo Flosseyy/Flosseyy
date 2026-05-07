@@ -1,6 +1,12 @@
 ## About Me
 
-Hi, I’m Flossey, a 15 Year old developer with over 4 years of experience in Discord.js development and FiveM scripting. I specialize in building scalable, efficient, and user-friendly systems, from advanced Discord bots to custom FiveM resources that enhance gameplay and server performance. With a strong understanding of both JavaScript/Node.js and Lua, I enjoy creating solutions that solve real-world problems for communities and game servers alike. I’m constantly refining my skills, exploring new frameworks, and staying up to date with the latest developments in the Discord and FiveM ecosystems. When I’m not coding, you’ll find me experimenting with new ideas, contributing to open-source projects, optimizing server-side performance, or sharing knowledge with other developers in the community.
+Hi, Im Nathann. I am a 15 year old developer that enjoys making cool projects for servers to use.
+
+Past Experience:
+California Roleplay: Trial Developer 150,000+ Discord 300+ In-game
+Miami DOJ Roleplay: Development Director 1,000+ Discord 50+ In-game
+Project Cali: Commissioned Projects 5,000+ Discord 
+Commissioned for many smaller servers and I've done multiple projects outside of FiveM :)
 
 ## My Skills
 
