@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nathan</h1>
-<p align="center">16 year old developer</p>
+<p align="center">Cool Developer or something</p>
 
 <br>
 
